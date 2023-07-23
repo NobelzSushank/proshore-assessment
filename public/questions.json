@@ -1,0 +1,362 @@
+[
+    {
+        "question" : "What type of lens is used in a magnifying glass",
+        "option_a" : "Concave",
+        "option_b" : "Plano-concave",
+        "option_c" : "Convex",
+        "option_d" : "None of the above",
+        "answer" : "c",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Total number of color exists in a sunlight",
+        "option_a" : "5",
+        "option_b" : "7",
+        "option_c" : "9",
+        "option_d" : "10",
+        "answer" : "b",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Who is the first person to define speed",
+        "option_a" : "Galileo",
+        "option_b" : "Newton",
+        "option_c" : "Kepler",
+        "option_d" : "Ptelemy",
+        "answer" : "a",
+        "subject" : "physics"
+    },
+    {
+        "question" : "If the spinning speed of the earth is increased then the weight of the body at the equator will be",
+        "option_a" : "Increases",
+        "option_b" : "Decreases",
+        "option_c" : "Same",
+        "option_d" : "Double",
+        "answer" : "b",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Total number of color exists in a sunlight",
+        "option_a" : "Concave",
+        "option_b" : "Plano-concave",
+        "option_c" : "Convex",
+        "option_d" : "None of the above",
+        "answer" : "c",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Which color deviates least when passing through a prism",
+        "option_a" : "Blue",
+        "option_b" : "Green",
+        "option_c" : "Yellow",
+        "option_d" : "Red",
+        "answer" : "d",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Which color deviates highest when passing through a prism",
+        "option_a" : "Indigo",
+        "option_b" : "Green",
+        "option_c" : "Voilet",
+        "option_d" : "Orange",
+        "answer" : "c",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Electrons carry a",
+        "option_a" : "Positive Charge",
+        "option_b" : "Negative Charge",
+        "option_c" : "Variable Charge",
+        "option_d" : "Neutral Charge",
+        "answer" : "b",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Proton carry a",
+        "option_a" : "Positive Charge",
+        "option_b" : "Negative Charge",
+        "option_c" : "Variable Charge",
+        "option_d" : "Neutral Charge",
+        "answer" : "a",
+        "subject" : "physics"
+    },
+    {
+        "question" : "What is the size of electron as compared to the proton and neutron",
+        "option_a" : "1/355",
+        "option_b" : "1/1236",
+        "option_c" : "1/1836",
+        "option_d" : "1/1923",
+        "answer" : "c",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Light year is the unit of",
+        "option_a" : "Length",
+        "option_b" : "Light",
+        "option_c" : "Speed",
+        "option_d" : "None of the above",
+        "answer" : "a",
+        "subject" : "physics"
+    },
+    {
+        "question" : "One light year is equal to",
+        "option_a" : "2 trillion miles",
+        "option_b" : "6 trillion miles",
+        "option_c" : "8 trillion miles",
+        "option_d" : "9 trillion miles",
+        "answer" : "b",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Light from sun reaches earth in approximately",
+        "option_a" : "3 minutes",
+        "option_b" : "8 minutes",
+        "option_c" : "10 minutes",
+        "option_d" : "12 minutes",
+        "answer" : "b",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Hertz is the SI unit of",
+        "option_a" : "Weight",
+        "option_b" : "Power",
+        "option_c" : "Pressure",
+        "option_d" : "Frequency",
+        "answer" : "d",
+        "subject" : "physics"
+    },
+    {
+        "question" : "The velocity of the sound is highest in",
+        "option_a" : "Metal",
+        "option_b" : "Air",
+        "option_c" : "Water",
+        "option_d" : "Vacuum",
+        "answer" : "a",
+        "subject" : "physics"
+    },
+    {
+        "question" : "In SONAR which kind of wave is used",
+        "option_a" : "Infrasonic",
+        "option_b" : "Ultrasonic",
+        "option_c" : "Radio",
+        "option_d" : "Audible sound",
+        "answer" : "b",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Which one type of radiation has the longest wave length",
+        "option_a" : "Infrared",
+        "option_b" : "Ultra-voilet",
+        "option_c" : "X-ray",
+        "option_d" : "Radio wave",
+        "answer" : "d",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Which one of the following ray has minimum wavelength",
+        "option_a" : "Gamma ray",
+        "option_b" : "Cosmic ray",
+        "option_c" : "Ultravoilet ray",
+        "option_d" : "X-rays",
+        "answer" : "a",
+        "subject" : "physics"
+    },
+    {
+        "question" : "Who discoverd x-ray",
+        "option_a" : "Marie Curie",
+        "option_b" : "Pierre Curie",
+        "option_c" : "Wilhelm Rontgen",
+        "option_d" : "Ernest Ruthorford",
+        "answer" : "c",
+        "subject" : "physics"
+    },
+    {
+        "question" : "According to the quantum theory of light, the energy of light is carried in discrete units are called",
+        "option_a" : "Photoelectrons",
+        "option_b" : "Protons",
+        "option_c" : "Electrons",
+        "option_d" : "Photons",
+        "answer" : "d",
+        "subject" : "physics"
+    },
+    {
+        "question" : "The term “white coal” sometimes referred to which of the following?",
+        "option_a" : "Geothermal Electricity ",
+        "option_b" : "Wind Energy",
+        "option_c" : "Hydroelectricity",
+        "option_d" : "Biomass Energy",
+        "answer" : "c",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which among the following is a Noble Gas?",
+        "option_a" : "Nitrogen",
+        "option_b" : "Hydrogen",
+        "option_c" : "Oxygen",
+        "option_d" : "Helium",
+        "answer" : "d",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which among the following element is an essential constituent of acids?",
+        "option_a" : "Nitrogen",
+        "option_b" : "Hydrogen",
+        "option_c" : "Oxygen",
+        "option_d" : "Helium",
+        "answer" : "b",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "2,4-D, which is sold as a weed killer of the broad-leaved weeds is a synthetic version of __:",
+        "option_a" : "Auxin Hormone",
+        "option_b" : "Cytokinin Hormone",
+        "option_c" : "Xylitol",
+        "option_d" : "None of the above",
+        "answer" : "a",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "The easily noticed smell of the LPG gas is because of which among the following?",
+        "option_a" : "Butane",
+        "option_b" : "Propane",
+        "option_c" : "Muthane",
+        "option_d" : "Ethanethiol",
+        "answer" : "d",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Carnotite is a mineral of which among the following metals?",
+        "option_a" : "Lead",
+        "option_b" : "Uranium",
+        "option_c" : "Almunium",
+        "option_d" : "Iron",
+        "answer" : "b",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Cooking gas mainly consists of:",
+        "option_a" : "Methane and Ethane",
+        "option_b" : "Ethylene and carbon monoxide",
+        "option_c" : "Butane and Isotane",
+        "option_d" : "Acetylene and hydrogen",
+        "answer" : "c",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "What do we call the region where the probability density function reduces to zero?",
+        "option_a" : "Shells",
+        "option_b" : "Orbits",
+        "option_c" : "Nodes",
+        "option_d" : "None of the above",
+        "answer" : "c",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "What is the half-life of Radium-223 isotope?",
+        "option_a" : "3 days",
+        "option_b" : "5 days",
+        "option_c" : "11.4 days",
+        "option_d" : "9.5 days",
+        "answer" : "c",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which of the following is emitted in Beta-decay process?",
+        "option_a" : "Electorn",
+        "option_b" : "Positron",
+        "option_c" : "Both Electron and Positron",
+        "option_d" : "None of the above",
+        "answer" : "c",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Choose the correct statement about d-block elements:",
+        "option_a" : "These are the elements of Group 3 to 10",
+        "option_b" : "All of them are metals",
+        "option_c" : "Both a and b",
+        "option_d" : "None of the above",
+        "answer" : "b",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which of the following is correct about Ionic compounds?",
+        "option_a" : "They have high melting and boiling points",
+        "option_b" : "They are soluble in non-polar solvents",
+        "option_c" : "They are usually gases in nature",
+        "option_d" : "All of the above",
+        "answer" : "a",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which of the following acids is used in the Lead storage battery?",
+        "option_a" : "Hydrochloric Acid",
+        "option_b" : "Sulphuric Acid",
+        "option_c" : "Nitric Acid",
+        "option_d" : "Phosphoric Acid",
+        "answer" : "b",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which of the following represents Reduction?",
+        "option_a" : "Losing one or more electrons",
+        "option_b" : "Gaining one or more electrons",
+        "option_c" : "Losing Hydrogen atoms",
+        "option_d" : "Liberating Hydrogen gas",
+        "answer" : "b",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which allotrope of Phosphorous is used for creating smoke bombs?",
+        "option_a" : "White Phosphorous ",
+        "option_b" : "Red Phosphorous ",
+        "option_c" : "Black Phosphorous ",
+        "option_d" : "None of the above",
+        "answer" : "a",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "What is the bond formed due to the electrostatic attraction known as?",
+        "option_a" : "Covalent bond",
+        "option_b" : "Electrovalent bond",
+        "option_c" : "Electromagnetic bond",
+        "option_d" : "Polar bond",
+        "answer" : "b",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which metal has the highest melting point among all metals?",
+        "option_a" : "Tungsten",
+        "option_b" : "Ruthenium",
+        "option_c" : "Gold",
+        "option_d" : "Bismuth",
+        "answer" : "a",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which of these drugs help to reduce or abolish pain without causing impairment of consciousness?",
+        "option_a" : "Analgesics",
+        "option_b" : "Antibiotics",
+        "option_c" : "Tranquilisers",
+        "option_d" : "Antiseptics",
+        "answer" : "a",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "What is the process of conversion of solid state directly to gaseous state called?",
+        "option_a" : "Distillation",
+        "option_b" : "Condensation",
+        "option_c" : "Sublimation",
+        "option_d" : "Evaporation",
+        "answer" : "c",
+        "subject" : "chemistry"
+    },
+    {
+        "question" : "Which of the following acids is used in the lead storage cells?",
+        "option_a" : "Hydrochloric Acid",
+        "option_b" : "Sulphuric Acid",
+        "option_c" : "Nitric Acid",
+        "option_d" : "Phosphoric Acid",
+        "answer" : "b",
+        "subject" : "chemistry"
+    }
+]
